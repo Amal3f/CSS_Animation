@@ -1,4 +1,4 @@
 CSS_Animation
 =============
 
-Images animation with CSS3.
+This is a sample of images animation using CSS3.
